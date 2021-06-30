@@ -1,2 +1,2 @@
-# st-iris
-Iris Classification App
+# Iris Classification App
+Test deploy to Heroku.
